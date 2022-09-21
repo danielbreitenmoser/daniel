@@ -15,3 +15,6 @@ df=pd.DataFrame(lines)
 print(df)
 
 
+I have never really worked with a dataframe before so pretty much everything i did was wrong.
+
+
