@@ -15,6 +15,9 @@ df=pd.DataFrame(lines)
 print(df)
 
 
-I have never really worked with a dataframe before so pretty much everything i did was wrong.
+```
+I have never really worked with a dataframe before so pretty much everything i did was wrong. Upon inspection of the code which was provided by the TA it makes sense.
 
+
+```
 
