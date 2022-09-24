@@ -1,5 +1,9 @@
 # daniel
 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+# markdown editing guide
+
 # the largest heading
 ## second largest heading
 ###### small heading
