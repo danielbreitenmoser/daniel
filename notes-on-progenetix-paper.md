@@ -30,7 +30,7 @@ copy number netural LOH can be commonly observed in hematological malignancies
 
 ### • Describe NCIt, ICOD, UBERON codes, and their relationships.
 
-NCIt is a dynamically developed hierarchical ontology which empowers layered data aggregation and transfer between classification
+NCIt (National Cancer Institute Thesaurus) is a dynamically developed hierarchical ontology which empowers layered data aggregation and transfer between classification
  systems and resources
  
  recent progenetix update they performed a data-driven generation of NCIt mappings and added the derived codes to all existing samples
@@ -82,7 +82,8 @@ NCIt is a dynamically developed hierarchical ontology which empowers layered dat
 ### • What do you think should be improved in progenetix?
 
 the paper did not mention a lot about how privacy is handled and if it is possible the retrace the data to a person.
-if that were the case it would definitely need to be improved in my opinion
+if that were the case it would definitely need to be improved in my opinion.  \
+Getting more and better quality samples always improves databases. 
 
 
 
